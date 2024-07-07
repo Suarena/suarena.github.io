@@ -1,0 +1,8 @@
+ @font-face{
+    font-family:"pix font";
+    src:url("DottedSongtiSquareRegular.otf");
+}
+*{
+    font-family:"pix font";
+	font-weight: 800;
+}
